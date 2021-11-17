@@ -499,7 +499,7 @@ int controller_nextId(LinkedList* pArrayListEmployee)
     if(pArrayListEmployee != NULL)
     {
         auxEmployee = ll_get(pArrayListEmployee, tam - 1);
-        id = auxEmployee->id;
+        employee_getId(auxEmployee, &id);
     }
 
     return id;
