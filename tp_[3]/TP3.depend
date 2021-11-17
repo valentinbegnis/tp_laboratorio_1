@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1637174406 source:/home/jbclyffe/Escritorio/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"misFunciones.h"
+	"menu.h"
+
+1604316202 /home/jbclyffe/Escritorio/Linux_64/LinkedList.h
+
+1637175750 /home/jbclyffe/Escritorio/Linux_64/Employee.h
+	"LinkedList.h"
+
+1637172950 source:/home/jbclyffe/Escritorio/Linux_64/Employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637165949 source:/home/jbclyffe/Escritorio/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1637174270 source:/home/jbclyffe/Escritorio/Linux_64/menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1637174586 /home/jbclyffe/Escritorio/Linux_64/menu.h
+
+1637173122 source:/home/jbclyffe/Escritorio/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+
+1637169749 /home/jbclyffe/Escritorio/Linux_64/Controller.h
+
+1604316204 /home/jbclyffe/Escritorio/Linux_64/parser.h
+
+1637165288 source:/home/jbclyffe/Escritorio/Linux_64/misFunciones.c
+	"misFunciones.h"
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
+1637174842 /home/jbclyffe/Escritorio/Linux_64/misFunciones.h
+
