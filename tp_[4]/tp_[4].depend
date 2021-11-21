@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1637459461 source:/home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"misFunciones.h"
+	"menu.h"
+
+1637459867 /home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/LinkedList.h
+
+1637438800 /home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/Employee.h
+	"LinkedList.h"
+
+1637439421 /home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/parser.h
+
+1637446545 /home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/misFunciones.h
+
+1637455865 /home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/menu.h
+
+1637438842 source:/home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/Employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637460238 source:/home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+
+1637459893 /home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/Controller.h
+
+1637460277 source:/home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+
+1637446542 source:/home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/misFunciones.c
+	"misFunciones.h"
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
+1637439382 source:/home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1637448638 source:/home/jbclyffe/Escritorio/tp_laboratorio_1/tp_[4]/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
